@@ -1,7 +1,8 @@
 # Test list:
 # ☑ 200 g × 3 = 600 g
 # ☑ multiplying a quantity does not modify the original
-# ☐ two quantities with the same amount and unit are equal
+# ☑ two quantities with the same amount and unit are equal
+# ☐ hash / dictionary keys
 # ☐ 1 oz is not the same as 1 g
 # ☐ 200 g + 300 g = 500 g
 # ☐ 200 g + 1 oz, reduced to grams, using a conversion rate
